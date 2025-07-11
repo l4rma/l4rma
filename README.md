@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello my name is Lars Magelssen 👋
+- 💼 IT consultant
+- ☁️ AWS Cloud Engineer
+- 💻 Programmer
 
-<!--
-**l4rma/l4rma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on automating my home lab
+- 🌱 I’m currently learning Kubernetes
+- ✍️  I’m currently writing a [cloud resume challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/) walkthrough
+- 📫 How to reach me: [contact@magelssn.io](mailto:contact@magelssen.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visit my website/blog: [magelssen.io](https://magelssen.io)
+
+
