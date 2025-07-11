@@ -1,9 +1,5 @@
 ## Hello my name is Lars Magelssen 👋
-- 💼 IT consultant
-- ☁️ AWS Cloud Engineer
-- 💻 Programmer
-
----
+💼 IT consultant | ☁️ AWS Cloud Engineer | 💻 Programmer
 
 - 🔭 I’m currently working on automating my home lab
 - 🌱 I’m currently learning Kubernetes
